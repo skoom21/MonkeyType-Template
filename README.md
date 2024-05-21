@@ -7,4 +7,26 @@ add a img here and make it wide
 
 ## Installation
 
-<iframe src="https://scribehow.com/embed/Importing_Settings_on_Monkeytype_Website__qxl_w2Q1RlyUI3xYIbqJag" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
+## Steps to Import Settings in Monkeytype
+
+1. Navigate to [https://monkeytype.com/settings/import](https://monkeytype.com/settings/import)
+   
+2. Click this link.
+
+![Step 2]
+
+1. Click "go to the danger zone".
+
+![Step 3]
+
+1. Click "import".
+
+![Step 4]
+
+1. Click the text field.
+
+![Step 5]
+
+1. Press `CTRL` + `V`.
+
+2. Click "import settings".
